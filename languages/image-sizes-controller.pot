@@ -1,0 +1,363 @@
+# Copyright (C) 2023 GrandPlugins
+# This file is distributed under the same license as the Image Sizes Controller [[GrandPlugins]] plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Image Sizes Controller [[GrandPlugins]] 1.0.7\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/gpls-issl-images-subsizes-list\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-04-20T14:52:27+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: image-sizes-controller\n"
+
+#. Plugin Name of the plugin
+msgid "Image Sizes Controller [[GrandPlugins]]"
+msgstr ""
+
+#. Description of the plugin
+msgid "Create custom image sizes, disable image sizes, List All image created subsizes, Fix missing image subsizes and more."
+msgstr ""
+
+#. Author of the plugin
+msgid "GrandPlugins"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://grandplugins.com"
+msgstr ""
+
+#: includes/ImageSizes.php:296
+msgid "You are about to delete this image size. proceed ?"
+msgstr ""
+
+#: includes/ImageSizes.php:297
+msgid "Create size"
+msgstr ""
+
+#: includes/ImageSizes.php:298
+#: includes/ImageSizes.php:614
+msgid "Edit size"
+msgstr ""
+
+#: includes/ImageSizes.php:366
+msgid "Settings have been saved successfully!"
+msgstr ""
+
+#: includes/ImageSizes.php:422
+msgid "subsize image has been created successfully!"
+msgstr ""
+
+#: includes/ImageSizes.php:465
+msgid "subsize image has been updated successfully!"
+msgstr ""
+
+#: includes/ImageSizes.php:498
+msgid "Image size has been removed successfully!"
+msgstr ""
+
+#: includes/ImageSizes.php:536
+#: includes/ImageSizes.php:546
+msgid "Selected sizes have been disabled successfully!"
+msgstr ""
+
+#: includes/ImageSizes.php:588
+msgid "Disabled"
+msgstr ""
+
+#: includes/ImageSizes.php:603
+msgid "Yes"
+msgstr ""
+
+#: includes/ImageSizes.php:605
+msgid "No"
+msgstr ""
+
+#: includes/ImageSizes.php:615
+#: includes/ImageSubsizes.php:422
+msgid "Delete size"
+msgstr ""
+
+#: includes/ImageSizes.php:645
+msgid "Delete"
+msgstr ""
+
+#: includes/ImageSizes.php:648
+#: templates/pages/sizes-controller-template.php:174
+#: templates/pages/sizes-controller-template.php:211
+#: templates/pages/sizes-controller-template.php:239
+msgid "Changes not saved"
+msgstr ""
+
+#: includes/ImageSizes.php:684
+#: templates/image-subsizes-list-template.php:96
+#: templates/pages/sizes-controller-template.php:118
+msgid "No crop"
+msgstr ""
+
+#: includes/ImageSizes.php:685
+#: templates/image-subsizes-list-template.php:97
+#: templates/pages/sizes-controller-template.php:119
+msgid "Left Top"
+msgstr ""
+
+#: includes/ImageSizes.php:686
+#: templates/image-subsizes-list-template.php:98
+#: templates/pages/sizes-controller-template.php:120
+msgid "Center Top"
+msgstr ""
+
+#: includes/ImageSizes.php:687
+#: templates/image-subsizes-list-template.php:99
+#: templates/pages/sizes-controller-template.php:121
+msgid "Right Top"
+msgstr ""
+
+#: includes/ImageSizes.php:688
+#: templates/image-subsizes-list-template.php:100
+#: templates/pages/sizes-controller-template.php:122
+msgid "Left Center"
+msgstr ""
+
+#: includes/ImageSizes.php:689
+#: templates/image-subsizes-list-template.php:101
+#: templates/pages/sizes-controller-template.php:123
+msgid "Center Center"
+msgstr ""
+
+#: includes/ImageSizes.php:690
+#: templates/image-subsizes-list-template.php:102
+#: templates/pages/sizes-controller-template.php:124
+msgid "Right Center"
+msgstr ""
+
+#: includes/ImageSizes.php:691
+#: templates/image-subsizes-list-template.php:103
+#: templates/pages/sizes-controller-template.php:125
+msgid "Left Bottom"
+msgstr ""
+
+#: includes/ImageSizes.php:692
+#: templates/image-subsizes-list-template.php:104
+#: templates/pages/sizes-controller-template.php:126
+msgid "Center Bottom"
+msgstr ""
+
+#: includes/ImageSizes.php:693
+#: templates/image-subsizes-list-template.php:105
+#: templates/pages/sizes-controller-template.php:127
+msgid "Right Bottom"
+msgstr ""
+
+#: includes/ImageSizes.php:705
+#: templates/pages/sizes-controller-template.php:139
+msgid "The size will be created even if the original image is smaller than the size dimensions"
+msgstr ""
+
+#: includes/ImageSizes.php:716
+#: templates/pages/sizes-controller-template.php:150
+msgid "The size will be created with the exact width and height ignoring the image aspect ratio"
+msgstr ""
+
+#: includes/ImageSizes.php:721
+msgid "Update"
+msgstr ""
+
+#: includes/ImageSubsizes.php:133
+msgid "image mime type is not supported"
+msgstr ""
+
+#: includes/ImageSubsizes.php:146
+msgid "subsize image has been generated successfully!"
+msgstr ""
+
+#: includes/ImageSubsizes.php:183
+msgid "Image subsize has been deleted successfully!"
+msgstr ""
+
+#: includes/ImageSubsizes.php:335
+msgid "You are about to delete an image subsize. proceed?"
+msgstr ""
+
+#: includes/ImageSubsizes.php:353
+msgid "Subsizes List"
+msgstr ""
+
+#: includes/ImageSubsizes.php:402
+msgid "Subsize image is missing"
+msgstr ""
+
+#: includes/ImageSubsizes.php:405
+msgid "Create subsize image"
+msgstr ""
+
+#: includes/ImageSubsizes.php:569
+msgid "Subsize is bigger than the original image"
+msgstr ""
+
+#: includes/ImageSubsizes.php:573
+msgid "Create subsize"
+msgstr ""
+
+#: includes/Utils.php:70
+msgid "Dimensions"
+msgstr ""
+
+#: includes/Utils.php:71
+msgid "Size"
+msgstr ""
+
+#: modules/SelectImages/templates/main-template.php:15
+msgid "Select Images"
+msgstr ""
+
+#: modules/SelectImages/templates/main-template.php:20
+msgid "Select images directly"
+msgstr ""
+
+#: modules/SelectImages/templates/main-template.php:21
+msgid "Select images from media"
+msgstr ""
+
+#: modules/SelectImages/templates/main-template.php:26
+msgid "Select Images by posts"
+msgstr ""
+
+#: modules/SelectImages/templates/main-template.php:27
+msgid "Select images attached to posts [ images uploaded to posts ]"
+msgstr ""
+
+#: modules/SelectImages/templates/main-template.php:35
+msgid "Select sizes"
+msgstr ""
+
+#: modules/SelectImages/templates/main-template.php:54
+msgid "Select sizes action"
+msgstr ""
+
+#: modules/SelectImages/templates/main-template.php:57
+msgid "Generate selected subsizes"
+msgstr ""
+
+#: modules/SelectImages/templates/main-template.php:61
+msgid "delete selected subsizes"
+msgstr ""
+
+#: pages/SizesControllerMainPage.php:57
+#: pages/SizesControllerMainPage.php:58
+msgid "Image Sizes Controller"
+msgstr ""
+
+#: pages/SizesControllerMainPage.php:68
+msgid "Sizes Controller"
+msgstr ""
+
+#: pages/SizesControllerMainPage.php:72
+msgid "Bulk Sizes "
+msgstr ""
+
+#: templates/image-subsizes-list-template.php:29
+msgid "Missing sizes"
+msgstr ""
+
+#: templates/image-subsizes-list-template.php:36
+msgid "No missing sizes"
+msgstr ""
+
+#: templates/image-subsizes-list-template.php:52
+msgid "Create custom sub-size"
+msgstr ""
+
+#: templates/image-subsizes-list-template.php:62
+#: templates/pages/sizes-controller-template.php:84
+msgid "Size name"
+msgstr ""
+
+#: templates/image-subsizes-list-template.php:111
+msgid "Create sub-size"
+msgstr ""
+
+#: templates/pages/bulk-subsizes-template.php:21
+msgid "Apply subsizes actions on bulk images"
+msgstr ""
+
+#: templates/pages/sizes-controller-template.php:32
+msgid "Registered Sizes"
+msgstr ""
+
+#: templates/pages/sizes-controller-template.php:35
+msgid "Sizes created by the WordPress core or by the theme and other plugins"
+msgstr ""
+
+#: templates/pages/sizes-controller-template.php:38
+msgid "Size Name"
+msgstr ""
+
+#: templates/pages/sizes-controller-template.php:39
+msgid "Width"
+msgstr ""
+
+#: templates/pages/sizes-controller-template.php:40
+msgid "Height"
+msgstr ""
+
+#: templates/pages/sizes-controller-template.php:41
+msgid "Crop"
+msgstr ""
+
+#: templates/pages/sizes-controller-template.php:59
+msgid "New sizes"
+msgstr ""
+
+#: templates/pages/sizes-controller-template.php:62
+msgid "New sizes list"
+msgstr ""
+
+#: templates/pages/sizes-controller-template.php:79
+msgid "Create new size"
+msgstr ""
+
+#: templates/pages/sizes-controller-template.php:156
+msgid "Create Subsize"
+msgstr ""
+
+#: templates/pages/sizes-controller-template.php:170
+msgid "Disabled Sizes"
+msgstr ""
+
+#: templates/pages/sizes-controller-template.php:177
+msgid "Check sizes to disable them. disabled sizes will not be created for new uploaded images"
+msgstr ""
+
+#: templates/pages/sizes-controller-template.php:188
+msgid "Hide disabled sizes from registered sizes"
+msgstr ""
+
+#: templates/pages/sizes-controller-template.php:189
+msgid "check to hide disabled sizes from global registered sizes. useful when using other related plugins"
+msgstr ""
+
+#: templates/pages/sizes-controller-template.php:193
+#: templates/pages/sizes-controller-template.php:223
+#: templates/pages/sizes-controller-template.php:262
+msgid "Save"
+msgstr ""
+
+#: templates/pages/sizes-controller-template.php:206
+msgid "Conditional Apply"
+msgstr ""
+
+#: templates/pages/sizes-controller-template.php:236
+msgid "Additional Settings"
+msgstr ""
+
+#: templates/pages/sizes-controller-template.php:250
+msgid "Disable WP \"BIG image\" threshold"
+msgstr ""
+
+#: templates/pages/sizes-controller-template.php:254
+msgid "Disable the scaling down that WordPress does for any image more than 2560px in width or height"
+msgstr ""
